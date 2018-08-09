@@ -1,0 +1,21 @@
+{
+  "name": "hedgehog-embeddable-client",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Klein <klein@pria.at>",
+  "devDependencies": {
+    "@types/socket.io-client": "^1.4.32",
+    "@types/vue-resource": "^0.9.34",
+    "css-loader": "^1.0.0",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.3.0",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
